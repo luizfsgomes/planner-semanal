@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Lobster&display=swap');
+html {
+    background-color: cadetblue;
+}
+
+body {
+    width: auto;
+}
+
+#form-width {
+    width:20vw;
+}
+
+.wf {
+    outline: 1px solid black;
+}
+
+.ns {
+    background-color: silver;
+}
+
+.ns2 {
+    background-color: gray;
+}
+
+.row {
+    min-height: 500px;
+}
+
+.txt-center {
+    text-align: center;
+}
+.outline {
+    outline: black solid 1px;
+    width: 100%;
+}
+
+
